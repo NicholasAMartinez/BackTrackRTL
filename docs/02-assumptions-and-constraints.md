@@ -1,11 +1,3 @@
 # Assumptions and Constraints
 
-Defines the assumptions, limitations, and operating constraints for BackTrackRTL.
-
-## Assumptions
-
-TBD.
-
-## Constraints
-
-TBD.
+Stub: Capture position-estimation assumptions, PX4/platform limits, resource constraints, safety limitations, and simulation limitations.

@@ -1,23 +1,3 @@
 # Verification Plan
 
-Defines how BackTrackRTL will be tested and evaluated.
-
-## Test Environment
-
-TBD.
-
-## SITL Tests
-
-TBD.
-
-## Failure Tests
-
-TBD.
-
-## Performance Tests
-
-TBD.
-
-## Acceptance Criteria
-
-TBD.
+Stub: Define test scenarios, SITL setup, unit and integration testing, metrics, pass/fail criteria, and requirements traceability.
